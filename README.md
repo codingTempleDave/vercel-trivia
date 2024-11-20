@@ -21,10 +21,12 @@ Installation and Setup ⚙️
 
 Follow these steps to set up the project locally:
 
-1.  bashCopy codegit clone https://github.com/your-username/trivia-time.gitcd trivia-time
-    
-2.  bashCopy codenpm install
-    
-3.  bashCopy codenpm start
-    
-4.  Open http://localhost:3000 in your browser to view the app.
+```bash
+git clone https://github.com/codingTempleDave/vercel-trivia.git
+cd vercel-trivia
+npm install
+npm run dev
+```
+
+Open http://localhost:5173/ in your browser to view the app.
+Sometimes the port may be different depending on your setup, be sure to use the right port
